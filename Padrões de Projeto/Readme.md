@@ -1,4 +1,4 @@
-#Atividade
+# Atividade
 * Crie um perfil no GitHub (caso ainda não possua um)
 * Instale e configure o GitBash
 * Crie um projeto "Disciplinas TSI"
